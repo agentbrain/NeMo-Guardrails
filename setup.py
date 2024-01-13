@@ -72,7 +72,7 @@ setup(
         "uvicorn==0.25.0",
         "httpx==0.25.2",
         "simpleeval==0.9.13",
-        "typing-extensions==4.6.1",
+        "typing-extensions==4.8.0",
         "Jinja2==3.1.2",
         "nest-asyncio==1.5.6",
     ],
