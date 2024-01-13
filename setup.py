@@ -58,7 +58,7 @@ setup(
         ],
     },
     install_requires=[
-        "pydantic==1.10.9",
+        "pydantic==2.5.3",
         "aiohttp==3.9.1",
         "langchain==0.0.354",
         "requests>=2.31.0",
