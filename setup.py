@@ -70,7 +70,7 @@ setup(
         "fastapi==0.108.0",
         "starlette==0.27.0",
         "uvicorn==0.25.0",
-        "httpx==0.24.1",
+        "httpx==0.25.2",
         "simpleeval==0.9.13",
         "typing-extensions==4.5.0",
         "Jinja2==3.1.2",
